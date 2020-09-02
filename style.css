@@ -1,0 +1,36 @@
+body {
+    background-color: red;
+    text-align: center;
+    margin: 30px;
+  }
+
+  #img-div {
+    background-color: yellow;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  #img-caption {
+    text-align: center;
+  }
+
+  #image {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  section {
+    margin: auto;
+    width: 50%;
+  }
+  #tribute-info {
+    display: block;
+    background-color: green;
+    text-align: center;
+  }
+
+  #list {
+    text-align: left;
+  }
